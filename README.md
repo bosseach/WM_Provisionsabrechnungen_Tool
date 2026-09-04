@@ -9,12 +9,13 @@ Tool für das Erstellen der Datensätzen der Provisionsabrechnung des Werbemarkt
 
 ## Struktur 
 
+```text
 WM_Provisionsabrechnungen_Tool/
 |-- GUI.py
 |-- requirements.txt
 |-- Readme.md
 |-- CHANGELOG.md
-
+```
 
 ## Installation
 
