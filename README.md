@@ -8,6 +8,7 @@ Tool für das Erstellen der Datensätzen der Provisionsabrechnung des Werbemarkt
 3. Ablegen der Daten für lasernet
 
 ## Struktur 
+
 WM_Provisionsabrechnungen_Tool/
 |-- GUI.py
 |-- requirements.txt
