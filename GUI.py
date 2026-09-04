@@ -11,6 +11,7 @@ from pathlib import Path
 
 # WMH Module
 from core_services.db import execute_sql_query
+from core_services.constants import DB_HOST
 
 print("Python verwendet:", sys.executable) # Sicherstellen, dass die venv genutzt wird
 Datum=(datetime.now()).strftime("%Y-%m-%d")
