@@ -30,7 +30,7 @@ python -m pip install -e .[dev]
 
 ## Erstellen einer .exe
 ```bash
-pyinstaller --onefile --noconsole GUI.py
+pyinstaller --clean GUI.spec
 ```
 
 ## Changelog
