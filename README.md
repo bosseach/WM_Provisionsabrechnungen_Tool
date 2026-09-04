@@ -28,6 +28,11 @@ python -m pip install --upgrade pip
 python -m pip install -e .[dev]
 ```
 
+## Erstellen einer .exe
+```bash
+pyinstaller --onefile --noconsole GUI.py
+```
+
 ## Changelog
 
 Alle nennenswerten Änderungen an diesem Projekt werden in `CHANGELOG.md` dokumentiert.
